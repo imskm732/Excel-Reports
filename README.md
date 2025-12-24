@@ -22,8 +22,7 @@ This repository contains five PDF business analysis reports for AtliQ Hardwares,
 **Importance:** Spot loyalty opportunities; plan discounts.  
 **Role:** Support sales planning.
 
-[📄 View Report](https://github.com/imskm732/Excel-Sales-and-Finance-Report/blob/main/customer%20performance%20report.pdf)
-
+[📄 View Report](https://github.com/imskm732/Excel-Reports/blob/main/customer%20performance%20report.pdf)
 ---
 
 ## 2️⃣ Market Performance vs Target Report
