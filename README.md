@@ -23,6 +23,7 @@ This repository contains five PDF business analysis reports for AtliQ Hardwares,
 **Role:** Support sales planning.
 
 [📄 View Report](https://github.com/imskm732/Excel-Reports/blob/main/customer%20performance%20report.pdf)
+
 ---
 
 ## 2️⃣ Market Performance vs Target Report
@@ -31,7 +32,7 @@ This repository contains five PDF business analysis reports for AtliQ Hardwares,
 **Importance:** Guide allocation; align teams.  
 **Role:** Support country-level strategy.
 
-[📄 View Report](https://github.com/imskm732/Excel-Sales-and-Finance-Report/blob/main/market%20performance%20vs%20target%20report.pdf)
+[📄 View Report](https://github.com/imskm732/Excel-Reports/blob/main/market%20performance%20vs%20target%20report.pdf)
 
 ---
 
@@ -41,7 +42,7 @@ This repository contains five PDF business analysis reports for AtliQ Hardwares,
 **Importance:** Benchmark, plan budgets.  
 **Role:** Align financial planning with strategy.
 
-[📄 View Report](https://github.com/imskm732/Excel-Sales-and-Finance-Report/blob/main/Profit%20and%20Loss%20Fiscal%20Year%20statement%20report.pdf)
+[📄 View Report](https://github.com/imskm732/Excel-Reports/blob/main/Profit%20and%20Loss%20Fiscal%20Year%20statement%20report.pdf)
 
 ---
 
@@ -51,7 +52,7 @@ This repository contains five PDF business analysis reports for AtliQ Hardwares,
 **Importance:** Understand market profitability.  
 **Role:** Support pricing and investment decisions.
 
-[📄 View Report](https://github.com/imskm732/Excel-Sales-and-Finance-Report/blob/main/Profit%20and%20Loss%20market%20statement%20report.pdf)
+[📄 View Report](https://github.com/imskm732/Excel-Reports/blob/main/Profit%20and%20Loss%20market%20statement%20report.pdf)
 
 ---
 
@@ -61,16 +62,15 @@ This repository contains five PDF business analysis reports for AtliQ Hardwares,
 **Importance:** Identify peak demand; plan supply chain.  
 **Role:** Enable forecasting and budgeting.
 
-[📄 View Report](https://github.com/imskm732/Excel-Sales-and-Finance-Report/blob/main/Profit%20and%20Loss%20statement%20%20by%20month.pdf)
+[📄 View Report](https://github.com/imskm732/Excel-Reports/blob/main/Profit%20and%20Loss%20statement%20%20by%20month.pdf)
 
 ---
 
 ## ⚙️ Skills Demonstrated
-- Excel Pivot Tables, P&L Analysis
-- Customer & Market Segmentation
-- Year-over-Year & Target Comparisons
-- Gross Margin Tracking
-- Strategic Reporting & Communication
+- Excel Pivot Tables & Power Pivot (Data Model)
+- Calculated Fields & KPI logic
+- Slicers & filters for interactive analysis
+- Executive-ready financial reporting layout
 
 ---
 
